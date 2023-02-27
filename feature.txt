@@ -1,1 +1,2 @@
 updated feature1
+adding feature 2
